@@ -117,7 +117,7 @@ git commit
 
 ### 发布 完成release
 
-点击完成发布版本，此时我们发现已经将release/1.0.1分支合并到了develop和master
+点击完成发布版本，此时我们发现已经将release/1.0.0分支合并到了develop和master
 
 ![](12.png)
 
