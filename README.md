@@ -102,3 +102,21 @@ git commit
 [sourcetree](https://www.sourcetreeapp.com/)集成了非常方便的git工作流功能，点击`Git工作流`按钮即可初始化仓库:
 ![](7.png)
 
+### 开发新功能
+点击创建新的功能，此时我们发现已经为我们创建了feature/news分支，我们将在此分支进行功能开发。
+![](8.png)
+
+### 开发完成
+点击完成功能。 此时我们发现已经将feature/news分支合并到了develop分支。
+
+
+
+
+## 参考
+[Angular规范](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
+
+[Angular提交信息规范](https://zj-git-guide.readthedocs.io/zh_CN/latest/message/Angular%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF%E8%A7%84%E8%8C%83/)
+
+[如何规范你的Git commit？](https://zhuanlan.zhihu.com/p/182553920)
+
+[git flow 简单入门 | SourceTree操作Git工作流](https://www.cnblogs.com/liuqitoday/p/12102791.html)
