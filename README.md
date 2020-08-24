@@ -88,5 +88,9 @@ git config --global commit.template /Users/JunQiLiu/.git_template
 git commit
 ```
 将自动打开模板文档，可以在此输入你的提交信息：
+![](4.png)
 
+关闭后将完成提交:
+
+![](5.png)
 
