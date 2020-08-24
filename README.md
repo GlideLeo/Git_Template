@@ -108,6 +108,11 @@ git commit
 
 ### 开发完成
 点击完成功能。 此时我们发现已经将feature/news分支合并到了develop分支。
+![](9.png) 
+
+![](10.png)
+
+### 预发布 开始release
 
 
 
