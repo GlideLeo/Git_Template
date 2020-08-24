@@ -94,3 +94,11 @@ git commit
 
 ![](5.png)
 
+效果如下:
+![](6.png)
+
+
+## Git-flow 工作流
+[sourcetree](https://www.sourcetreeapp.com/)集成了非常方便的git工作流功能，点击`Git工作流`按钮即可初始化仓库:
+![](7.png)
+
