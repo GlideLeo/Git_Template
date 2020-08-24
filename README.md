@@ -113,8 +113,13 @@ git commit
 ![](10.png)
 
 ### 预发布 开始release
+![](11.png)
 
+### 发布 完成release
+![](12.png)
 
+### 线上问题修复 开始hotfix
+![](13.png)
 
 
 ## 参考
