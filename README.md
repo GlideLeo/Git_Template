@@ -113,9 +113,16 @@ git commit
 ![](10.png)
 
 ### 预发布 开始release
+![](11.png)
 
+### 发布 完成release
 
+点击完成发布版本，此时我们发现已经将release/1.0.0分支合并到了develop和master
 
+![](12.png)
+
+### 线上问题修复 开始hotfix
+点击创建新的修复补丁，此时我们发现基于master为我们创建了hotfix/v1.0.0-20191226
 
 ## 参考
 [Angular规范](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
